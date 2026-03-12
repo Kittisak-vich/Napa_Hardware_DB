@@ -26,8 +26,8 @@
 
 
 ### 📥 ดาวน์โหลด (Download)
-1.  **[แบบไฟล์เดียว (Portable Version)](sha256:53ae382116e9f56c7b9f1e04b573f564c4c9ebfeb3d61f551f36b8677056c216)** - เหมาะสำหรับพกพาใน USB รันได้ทันที
-2.  **[แบบตัวติดตั้ง (Installer Version)](sha256:0e85957514b4c6e9e6c304207af6c869750d5a14f273b36513f6d50dbe542766)** - สำหรับติดตั้งลงเครื่อง พร้อมไอคอนหน้า Desktop
+1.  **[แบบไฟล์เดียว (Portable Version)](https://github.com/Kittisak-vich/Napa_Hardware_DB/releases/download/V1/Napa_Hardware_Advisor.exe)** - เหมาะสำหรับพกพาใน USB รันได้ทันที
+2.  **[แบบตัวติดตั้ง (Installer Version)](https://github.com/Kittisak-vich/Napa_Hardware_DB/releases/download/V1/Napa_Hardware_Setup_v1.exe)** - สำหรับติดตั้งลงเครื่อง พร้อมไอคอนหน้า Desktop
 
 ---
 
@@ -42,8 +42,8 @@
 * **Portable & Efficient:** Lightweight executable with no background services.
 
 ### 📥 How to Download
-1.  **[Portable Executable (.exe)](sha256:53ae382116e9f56c7b9f1e04b573f564c4c9ebfeb3d61f551f36b8677056c216)** - No installation required. Run directly from your drive.
-2.  **[Official Installer (Setup)](sha256:0e85957514b4c6e9e6c304207af6c869750d5a14f273b36513f6d50dbe542766)** - Standard installation with a desktop shortcut.
+1.  **[Portable Executable (.exe)](https://github.com/Kittisak-vich/Napa_Hardware_DB/releases/download/V1/Napa_Hardware_Advisor.exe)** - No installation required. Run directly from your drive.
+2.  **[Official Installer (Setup)](https://github.com/Kittisak-vich/Napa_Hardware_DB/releases/download/V1/Napa_Hardware_Setup_v1.exe)** - Standard installation with a desktop shortcut.
 
 ---
 
