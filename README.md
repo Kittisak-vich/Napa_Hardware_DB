@@ -17,7 +17,8 @@
 
 ### 📸 ตัวอย่างการใช้งาน (Usage Preview)
 > **<img width="524" height="584" alt="2026-03-12_133617" src="https://github.com/user-attachments/assets/56d9b05e-7f7b-4f35-8933-82551858821b" />**
-> **![Program Screenshot]**
+
+**![Program Screenshot]**
 > **<img width="1115" height="913" alt="2026-03-12_133411" src="https://github.com/user-attachments/assets/4f52ce66-8b27-43f8-a4ab-67a1acb318bb" />**
 
 แบบติตดั้ง (Install)
