@@ -20,6 +20,10 @@
 > **![Program Screenshot]**
 > **<img width="1115" height="913" alt="2026-03-12_133411" src="https://github.com/user-attachments/assets/4f52ce66-8b27-43f8-a4ab-67a1acb318bb" />**
 
+แบบติตดั้ง (Install)
+> **<img width="598" height="464" alt="2026-03-12_133715" src="https://github.com/user-attachments/assets/c667768f-6ab0-4904-9798-0eae41fadd78" />**
+
+
 ### 📥 ดาวน์โหลด (Download)
 1.  **[แบบไฟล์เดียว (Portable Version)](ใส่ลิงก์ดาวน์โหลดที่นี่)** - เหมาะสำหรับพกพาใน USB รันได้ทันที
 2.  **[แบบตัวติดตั้ง (Installer Version)](ใส่ลิงก์ดาวน์โหลดที่นี่)** - สำหรับติดตั้งลงเครื่อง พร้อมไอคอนหน้า Desktop
