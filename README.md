@@ -42,8 +42,8 @@
 * **Portable & Efficient:** Lightweight executable with no background services.
 
 ### 📥 How to Download
-1.  **[Portable Executable (.exe)](Your_Link_Here)** - No installation required. Run directly from your drive.
-2.  **[Official Installer (Setup)](Your_Link_Here)** - Standard installation with a desktop shortcut.
+1.  **[Portable Executable (.exe)](sha256:53ae382116e9f56c7b9f1e04b573f564c4c9ebfeb3d61f551f36b8677056c216)** - No installation required. Run directly from your drive.
+2.  **[Official Installer (Setup)](sha256:0e85957514b4c6e9e6c304207af6c869750d5a14f273b36513f6d50dbe542766)** - Standard installation with a desktop shortcut.
 
 ---
 
